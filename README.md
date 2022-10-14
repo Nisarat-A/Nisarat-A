@@ -1,4 +1,4 @@
-<h1 align ="center">My Profile</h1>
+<h1 align ="center"><b><i><ins>My Profile</ins></i></b></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nisarat-A&theme=moltack&show_icons=true)
 
