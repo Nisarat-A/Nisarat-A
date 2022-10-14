@@ -1,11 +1,12 @@
 <h1 align ="center">☆꧁༒ᗰY ᑭᖇOᖴIᒪE༒꧂☆</h1>
-<br>
+
+![](https://komarev.com/ghpvc/?username=Nisarat-A&style=flat-squareplastic&color=bd7274&label=PROFILE+VIEWS)
+
+
 <p align="center"> <img src="d2c0a74ad6a2530de22751bf414b3939.gif" ></p>
 
-(っ◔◡◔)っ My name is Nisarat Aunrueanngam but you can call me ```Noey```   <sub>(Noey means Butter)</sub>
- <br>
-(っ◔◡◔)っ
-(っ◔◡◔)っ
+(っ◔◡◔)っ 
+
 
 --- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nisarat-A&theme=moltack&show_icons=true)
