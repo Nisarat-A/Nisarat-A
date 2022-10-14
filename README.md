@@ -9,6 +9,12 @@
 
 
 --- 
+<div class='container'><p align="center">
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Nisarat-A&theme=moltack&show_icons=true&border_radius=50&card_width=450&card_height=550" />
+
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarat-A&theme=moltack&show_icons=true&langs_count=8&border_radius=50&card_width=450&card_height=450&layout=compact" /></div>
+</p></div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nisarat-A&theme=moltack&show_icons=true&border_radius=50&card_width=450&card_height=550)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarat-A&theme=moltack&show_icons=true&langs_count=3&border_radius=50&card_width=450&card_height=450 )](https://github.com/anuraghazra/github-readme-stats)
