@@ -16,3 +16,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nisarat-A&row=2&column=3&theme=gruvbox&no-bg=true&margin-w=15&margin-h=15
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Nisarat-A)](https://github.com/LordDashMe/github-contribution-stats/)
