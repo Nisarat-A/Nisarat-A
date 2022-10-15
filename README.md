@@ -5,9 +5,12 @@
 
 <p align="center"> <img src="d2c0a74ad6a2530de22751bf414b3939.gif" ></p>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nisarat-A&row=1&column=6&theme=gruvbox&no-bg=true&margin-w=75&margin-h=100
+)](https://github.com/ryo-ma/github-profile-trophy) 
 
 (っ◔◡◔)っ (っ◔◡◔)っ(っ◔◡◔)っ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nisarat-A&theme=elegant&hide_border=true&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&background=E5D5BD&stroke=916960&ring=9F8157&fire=8F5753&currStreakNum=3E6A3EC1&sideNums=AD7D80&currStreakLabel=709D59&sideLabels=86514CA8&dates=ECEFF2)](https://git.io/streak-stats)
+
+>I'm learning Java Python R 
 
 
 --- 
@@ -19,7 +22,5 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nisarat-A&row=2&column=3&theme=gruvbox&no-bg=true&margin-w=15&margin-h=15
-)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Nisarat-A)](https://github.com/LordDashMe/github-contribution-stats/)
+
