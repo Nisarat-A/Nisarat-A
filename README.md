@@ -17,7 +17,7 @@
 <p align="center">
 <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Nisarat-A&theme=moltack&show_icons=true&border_radius=50&card_width=450" />
   <br>
-  <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarat-A&theme=moltack&show_icons=true&langs_count=8&border_radius=50&card_width=450&card_height=450&layout=compact" /></div>
+  <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarat-A&theme=moltack&show_icons=true&langs_count=10&border_radius=50&card_width=450&card_height=450&layout=compact" /></div>
 </p>
 
 
