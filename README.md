@@ -14,8 +14,6 @@
 <img src="ee.gif" height="50"><img src="gg.gif" height="125"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nisarat-A&theme=elegant&hide_border=true&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&background=E5D5BD&stroke=916960&ring=9F8157&fire=8F5753&currStreakNum=3E6A3EC1&sideNums=AD7D80&currStreakLabel=709D59&sideLabels=86514CA8&dates=ECEFF2)](https://git.io/streak-stats)
 
 
-
---- 
 <p align="center">
 <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Nisarat-A&theme=moltack&show_icons=true&border_radius=50&card_width=450"&count_private=true/>
   <br>
@@ -23,7 +21,6 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarat-A)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
