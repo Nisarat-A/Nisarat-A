@@ -5,11 +5,11 @@
 
 <p align="center" weight ="600"> <img src="d2c0a74ad6a2530de22751bf414b3939.gif" ></p>
 
-## About Me 
+## About Me 🐨
 <ul>
 <li>I'm <b> Nisarat A. </b>  , feel free to call me  <b> Noey </b> ! (Noey = 🧈)</li>
 
-<li>freshman student at SIT IT KMUTT </li>
+<li>freshman student at SIT IT KMUTT (GPA : <b> 3.47 </b> )</li>
 <li>I can speak <b>4</b> languages 🇹🇭🇺🇸🇨🇳🇯🇵 </li>
 <li>TOEIC <b>715 </b> scores (LS 345 RD 370)</li>
 <li>Interseted in Data Analyst </li>
