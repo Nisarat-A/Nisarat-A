@@ -24,6 +24,14 @@
   </li>
 </ul>
 
+## Contact
+
+<ul>
+  <li> <b>Email</b> : noansrnn@gmail.com
+  </li>
+  
+</ul>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nisarat-A&row=1&column=6&theme=gruvbox&no-bg=true&margin-w=75&margin-h=100
 )](https://github.com/ryo-ma/github-profile-trophy) 
 
