@@ -5,6 +5,18 @@
 
 <p align="center" weight ="600"> <img src="d2c0a74ad6a2530de22751bf414b3939.gif" ></p>
 
+## About Me 
+<ul>
+<li>I'm <b> Nisarat A. </b>  , feel free to call me  <b> Noey </b> ! (Noey = 🧈)</li>
+
+<li>freshman student at SIT IT KMUTT </li>
+<li>I can speak <b>4</b> languages 🇹🇭🇺🇸🇨🇳🇯🇵 </li>
+<li>TOEIC <b>715 </b> scores (LS 345 RD 370)</li>
+<li>Interseted in Data Analyst </li>
+
+  
+</ul>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nisarat-A&row=1&column=6&theme=gruvbox&no-bg=true&margin-w=75&margin-h=100
 )](https://github.com/ryo-ma/github-profile-trophy) 
 
