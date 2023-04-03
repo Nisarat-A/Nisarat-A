@@ -12,7 +12,7 @@
 <li>freshman student at SIT IT KMUTT (GPA : <b> 3.47 </b> )</li>
 <li>I can speak <b>4</b> languages 🇹🇭🇺🇸🇨🇳🇯🇵 </li>
 <li>TOEIC <b>715 </b> scores (LS 345 RD 370)</li>
-<li>Interseted in Data Analyst </li>
+  <li>Interseted in <b>Data Analyst</b> </li>
 </ul>
 
 ## Competition
