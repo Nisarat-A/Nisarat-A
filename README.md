@@ -40,7 +40,7 @@
 <h2 align ="center">☆Mყ Sƚαƚʂ☆</h2>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarat-A&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarat-A&layout=compact&?theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nisarat-A&theme=elegant&hide_border=true&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&background=E5D5BD&stroke=916960&ring=9F8157&fire=8F5753&currStreakNum=3E6A3EC1&sideNums=AD7D80&currStreakLabel=709D59&sideLabels=86514CA8&dates=ECEFF2)](https://git.io/streak-stats)
 
