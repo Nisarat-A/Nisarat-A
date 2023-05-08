@@ -15,6 +15,23 @@
   <li>Interseted in <b>Data Analyst</b> </li>
 </ul>
 
+## Skills 
+<ul>
+
+  <li>Python : Numpy Pandas Matplotlib Seaborn OpenCV </li>
+  <li>R</li>
+  <li>Java</li>
+  <li>WEB 3 (HTMl CSS JAVASCRIPT)</li>
+
+</ul>
+
+## learning 🤓
+<ul>
+<li>
+  <b>Cousera</b> : Google Data Analyst 
+  </li>
+</ul>
+
 ## Competition
 
 <ul>
@@ -23,6 +40,7 @@
      <ul><li> Role : UX Designer </li></ul> 
   </li>
 </ul>
+
 
 ## Contact
 
