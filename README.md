@@ -37,7 +37,7 @@
   </li>
   <li> SIT PLAYGROUND #2 ♦️
     <ul><li> https://www.figma.com/proto/Xn1O5Iwox8fYERHfhCjMHP/Project?node-id=0%3A1 </li></ul>
-     <ul><li> Role : UX Designer </li></ul> 
+ 
   </li>
 </ul>
 
