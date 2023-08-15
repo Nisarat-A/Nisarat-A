@@ -17,6 +17,8 @@
 <ul>
 
   <li>Python : Numpy Pandas Matplotlib Seaborn OpenCV </li>
+    <li>R </li>
+    <li>HTML CSS JavaScript</li>
   <li>Java</li>
 
 </ul>
