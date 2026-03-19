@@ -10,7 +10,6 @@
 
 <img src="https://i.pinimg.com/originals/7d/df/66/7ddf66ba10fa95a70cc305ad3d1007cb.gif" width="180" align="right" alt="Pink Koi Fish Animation">
 
-**“以代码书写逻辑，以风水调和生活”** *(Coding with logic, balancing life with Feng Shui)* ☯️✨
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Nisarat-A&style=flat-square&color=ff69b4&label=PROFILE+VIEWS)](https://github.com/Nisarat-A)
 [![Followers](https://img.shields.io/github/followers/Nisarat-A?logo=github&style=flat-square&color=ffb6c1&labelColor=fff0f5)](https://github.com/Nisarat-A)
@@ -19,11 +18,10 @@
 
 ### 🪷 关于我 | About Me
 
-你好！I'm **Nisarat (Noey)**, a **Thai-Chinese (泰华)** tech enthusiast currently based in the vibrant city of **Bangkok (曼谷)**. 
-
+你好
 - 📍 **Base:** Bangkok, Thailand (曼谷，泰国)
 - 🎓 **Education:** IT Student at KMUTT, specializing in Data Analysis, AI, & ML.
-- 💡 **Interests:** Data Science, NLP, Crypto/Forex Trading, Blockchain content writing, and the art of **Bazi (八字) & Feng Shui (风水)**.
+- 💡 **Interests:** Data Science, NLP, Crypto/Forex Trading, Blockchain content writing
 - 🚀 **Currently Building:** AI Lawyer Matching System.
 - 📫 **Contact Me:** [noansrnn@gmail.com](mailto:noansrnn@gmail.com)
 
