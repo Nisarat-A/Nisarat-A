@@ -62,14 +62,7 @@
 
 ### 📌 精选项目 | Pinned Repositories
 
-<div align="center">
-  <a href="https://github.com/Nisarat-A/DA_Associate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nisarat-A&repo=DA_Associate&title_color=ff1493&text_color=444e59&icon_color=ff69b4&bg_color=fff0f5&hide_border=true&locale=cn" width="48%" />
-  </a>
-  <a href="https://github.com/Nisarat-A/The-oldest-businesses-in-the-world">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nisarat-A&repo=The-oldest-businesses-in-the-world&title_color=ff1493&text_color=444e59&icon_color=ff69b4&bg_color=fff0f5&hide_border=true&locale=cn" width="48%" />
-  </a>
-</div>
+
 
 <div align="center">
   <br>
